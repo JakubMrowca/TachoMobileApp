@@ -1,0 +1,6 @@
+{
+	"appId": "com.tacho.app",
+	"appName": "TachoMobile",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TachoMobile</string>
+    <string name="title_activity_main">TachoMobile</string>
+    <string name="package_name">com.tacho.app</string>
+    <string name="custom_url_scheme">com.tacho.app</string>
+</resources>
